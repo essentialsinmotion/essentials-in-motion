@@ -38,8 +38,7 @@
       padding: clamp(4rem, 10vw, 8rem) 0 4rem;
     }
 
-    header {
-      margin-bottom: clamp(2rem, 5vw, 3.25rem);
+   header {margin-bottom: 1.5rem;
     }
 
     h1,
