@@ -15,12 +15,12 @@
       background: var(--bg);
       color: var(--text);
       font-family:
-        ui-serif,
-        Georgia,
-        Cambria,
-        "Times New Roman",
-        Times,
-        serif;
+          -apple-system,
+          BlinkMacSystemFont,
+          "Helvetica Neue",
+          Helvetica,
+          Arial,
+          sans-serif;
       font-size: 18px;
       line-height: 1.6;
       -webkit-font-smoothing: antialiased;
