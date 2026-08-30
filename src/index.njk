@@ -1,0 +1,61 @@
+---
+title: Essentials in Motion
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }}</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+
+<body>
+  <main>
+    <header>
+      <h1>Essentials in Motion</h1>
+      <p class="dek">A lighter way of moving through the world.</p>
+    </header>
+
+    <section>
+      <h2>About</h2>
+
+      <p>
+        I’m interested in the things we choose to carry, and the things
+        we choose to leave behind.
+      </p>
+
+      <p>
+        Essentials in Motion is a place for notes on lightweight systems,
+        thoughtful gear, travel, the backcountry, and everyday life.
+      </p>
+
+      <p>
+        An ongoing exploration of moving with less, choosing deliberately,
+        and finding the point where less becomes enough.
+      </p>
+    </section>
+
+    <section>
+      <h2>Field Notes</h2>
+
+      {% if collections.fieldNotes.length %}
+        {% for note in collections.fieldNotes %}
+          <p>
+            <a href="{{ note.url }}">{{ note.data.title }}</a>
+          </p>
+        {% endfor %}
+      {% else %}
+        <p class="muted">Nothing here yet. Soon.</p>
+      {% endif %}
+    </section>
+
+    <footer>
+      <a href="mailto:contact@essentialsinmotion.co">
+        contact@essentialsinmotion.co
+      </a>
+    </footer>
+  </main>
+</body>
+</html>
