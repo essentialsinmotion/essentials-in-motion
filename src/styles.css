@@ -121,14 +121,17 @@ h2 {
       color: var(--muted);
     }
 
-    a,
-    a:visited,
-    a:hover,
-    a:focus-visible {
+      a,
+    a:visited {
       color: #000;
       text-decoration-color: #000;
       text-decoration-thickness: 1px;
       text-underline-offset: 0.15em;
+    }
+    
+    a:hover,
+    a:focus {
+      color: #000;
     }
     
     @media (max-width: 34rem) {
