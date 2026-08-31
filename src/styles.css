@@ -121,12 +121,9 @@ h2 {
       color: var(--muted);
     }
 
-    [href] {
-      color: #000 !important;
-      text-decoration-color: #000;
-      text-decoration-thickness: 1px;
-      text-underline-offset: 0.15em;
-    }
+   a {
+    color:black !important;
+    ]}
     
     @media (max-width: 34rem) {
       main {
