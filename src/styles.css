@@ -120,26 +120,20 @@ h2 {
       line-height: 1.5;
       color: var(--muted);
     }
-
     a {
       color: inherit;
       text-decoration-thickness: 1px;
-      text-underline-offset: 0.18em;
-    }
-
-    a:hover,
-    a:focus-visible {
-      color: var(--text);
-    }
-
-    a {
-      color: inherit;
       text-decoration-color: var(--muted);
       text-underline-offset: 0.15em;
     }
     
     a:visited {
       color: inherit;
+    }
+    
+    a:hover,
+    a:focus-visible {
+      color: var(--text);
     }
     @media (max-width: 34rem) {
       main {
