@@ -141,6 +141,10 @@ h2 {
       header {
         margin-bottom: 2rem;
       }
+        .content-columns {
+        grid-template-columns: 1fr;
+        gap: 2.5rem;
+      }
     }
 
     @media (prefers-reduced-motion: reduce) {
