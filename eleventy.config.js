@@ -6,7 +6,12 @@ export default function(eleventyConfig) {
       .getFilteredByTag("field-notes")
       .reverse();
   });
-
+eleventyConfig.addCollection("lists", function(collectionApi) {
+  return collectionApi
+    .getFilteredByTag("lists")
+    .reverse();
+});
+  
   return {
     dir: {
       input: "src",
