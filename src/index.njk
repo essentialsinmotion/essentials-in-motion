@@ -50,6 +50,16 @@ title: Essentials in Motion
         <p class="muted">Nothing here yet. Soon.</p>
       {% endif %}
     </section>
+    
+    <section>
+      <h2>Lists</h2>
+    
+      {% for item in collections.lists %}
+        <p>
+          <a href="{{ item.url }}">{{ item.data.title }}</a>
+        </p>
+      {% endfor %}
+    </section>
 
     <footer>
       <a href="mailto:contact@essentialsinmotion.co">
