@@ -64,9 +64,22 @@
       letter-spacing: -0.015em;
     }
 
-    section {
+     section {
       margin-top: 3rem;
     }
+    
+    .content-columns {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 3rem;
+      margin-top: 3rem;
+    }
+    
+    .content-columns section {
+      margin-top: 0;
+    }
+
+h2 {
 
     h2 {
       margin-bottom: 1.25rem;
