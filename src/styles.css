@@ -132,6 +132,15 @@ h2 {
       color: var(--text);
     }
 
+    a {
+      color: inherit;
+      text-decoration-color: var(--muted);
+      text-underline-offset: 0.15em;
+    }
+    
+    a:visited {
+      color: inherit;
+    }
     @media (max-width: 34rem) {
       main {
         width: min(calc(100% - 2rem), var(--max-width));
