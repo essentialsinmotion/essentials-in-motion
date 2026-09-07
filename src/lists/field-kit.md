@@ -12,7 +12,7 @@ As of Summer 2026, these items are the foundation of my field kit as a NOLS inst
 
 *This kit does not include group gear typically shared on a NOLS course (cooking, shelter, navigation, communication, or other systems).*
 
-### Worn
+## Worn
 
 **Ibex Springbok Hoodie**
 
@@ -48,7 +48,7 @@ Always with you with no flimsy arms to break. I'm a believer.
 
 **Ibex Woolies Pro Tech 3/4 Bottoms**
 
-### Gear
+## Gear
 **HMG Porter 55L Backpack**
 
 A tube. 
@@ -91,7 +91,7 @@ When the lid fails on your Platypus (or you get a puncture in the top half), giv
 
 **Mini Bic Lighter**
 
-### Tech
+## Tech
 
 **Petzl Swift LT**
 
@@ -103,7 +103,7 @@ When the lid fails on your Platypus (or you get a puncture in the top half), giv
 
 **Rolling Square USB-C Charging Cable (XS)**
 
-### Other
+## Other
 
 **Tooth Brush/Tooth Paste Tabs**
 
