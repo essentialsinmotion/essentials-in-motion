@@ -55,7 +55,7 @@ A tube.
 
 **Zimmermade Shoulder Bottle Pocket**
 
-**Katabatic Palisade 30° Quilt**
+**[Katabatic Palisade 30° Quilt](/products/katabatic-palisade/)**
 
 The perfect blend between the comfort of a sleeping bag and the simplicity and versatility of a quilt with unmatched build quality.
 
