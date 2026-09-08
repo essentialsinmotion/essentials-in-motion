@@ -11,7 +11,13 @@ eleventyConfig.addCollection("lists", function(collectionApi) {
     .getFilteredByTag("lists")
     .reverse();
 });
-  
+ 
+  eleventyConfig.addCollection("products", function(collectionApi) {
+    return collectionApi
+      .getFilteredByTag("products")
+      .reverse();
+  });
+ 
   return {
     dir: {
       input: "src",
