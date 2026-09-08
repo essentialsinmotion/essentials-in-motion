@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }} — Essentials in Motion</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+
+<body>
+  <main>
+    <article class="product">
+      <p><a href="/">Essentials in Motion</a></p>
+
+      <h1>{{ title }}</h1>
+
+      {% if purpose %}
+        <p><strong>Purpose</strong><br>{{ purpose }}</p>
+      {% endif %}
+
+      {% if status %}
+        <p><strong>Status</strong><br>{{ status }}</p>
+      {% endif %}
+
+      {% if use %}
+        <p><strong>Use</strong><br>{{ use }}</p>
+      {% endif %}
+
+      {% if weight %}
+        <p><strong>Weight</strong><br>{{ weight }}</p>
+      {% endif %}
+
+      {% if cost %}
+        <p><strong>Cost</strong><br>{{ cost }}</p>
+      {% endif %}
+
+      {{ content | safe }}
+    </article>
+
+    <footer>
+      <a href="/">Essentials in Motion</a>
+    </footer>
+  </main>
+</body>
+</html>
