@@ -7,8 +7,6 @@ tags:
   - lists
 ---
 
-## Summer Review
-
 *June 1–August 31, 2026. I spent 15 days on a backcountry expedition with NOLS this summer, leaving 77 days of front-country use.*
 
 ### General Use
