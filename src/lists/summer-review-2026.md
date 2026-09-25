@@ -11,11 +11,11 @@ tags:
 
 ### General Use
 
-#### Merino Tee: Duckworth Vapor/Fjällräven Abisko Tee
+#### Merino Tee: Duckworth Vapor/Fjällräven Abisko
 
 39 / 36 uses
 
-#### Shorts: Patagonia Hydropeak Volley Shorts
+#### Shorts: Patagonia Hydropeak Volley
 
 74 uses
 
@@ -31,7 +31,7 @@ tags:
 
 92 uses
 
-#### Footwear: Luna Leadville Sandal
+#### Footwear: Luna Leadville
 
 77 uses
 
@@ -41,11 +41,11 @@ A mainstay in my rotation for the last 10+ years. Minimal, lightweight, and absu
 
 ### Fitness
 
-#### Artilect Sprint Tee
+#### Artilect Sprint
 
 77 uses
 
-#### Patagonia Strider Pro Short
+#### Patagonia Strider Pro
 
 76 uses
 
