@@ -1,4 +1,12 @@
-## Summer Review (6.1.26-8.31.26)
+
+---
+title: Summer Review 2026
+date: 2026-09-25
+updated: 2026-09-25
+layout: layouts/list.njk
+tags:
+  - lists
+---## Summer Review (6.1.26-8.31.26)
 *Spent 15-days on a backcountry expedition with NOLS this summer, leaving 77 days of front-country use*
 
 ### General Use
