@@ -1,5 +1,5 @@
 ---
-title: Fjällräven Abisko Wool SS
+title: Fjallraven Abisko Wool SS
 date: 2026-09-25
 updated: 2026-09-25
 layout: layouts/product.njk
