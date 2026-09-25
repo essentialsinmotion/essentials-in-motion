@@ -23,7 +23,7 @@ tags:
 
 52 uses
 
-#### Underwear: Mons Royale Hold 'em Shorty / Hold 'em
+#### Underwear: Mons Royale Hold 'em Shorty/Hold 'em
 
 23 / 35 uses
 
