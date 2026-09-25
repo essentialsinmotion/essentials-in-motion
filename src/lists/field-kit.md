@@ -1,10 +1,13 @@
 ---
 title: Field Kit
 date: 2026-09-02
+updated: 2026-09-02
 layout: layouts/list.njk
 tags:
   - lists
 ---
+
+## Field Kit
 
 *Edited September 2, 2026*
 
@@ -12,107 +15,108 @@ As of Summer 2026, these items are the foundation of my field kit as a NOLS inst
 
 *This kit does not include group gear typically shared on a NOLS course (cooking, shelter, navigation, communication, or other systems).*
 
-## Worn
+### Worn
 
-**Ibex Springbok Hoodie**
+#### Ibex Springbok Hoodie
 
-**Black Diamond Sequence Pant**
+#### Black Diamond Sequence Pant
 
 No-frills climbing pant without excessive pocketing in a roomy cut.
 
-**Mons Royale Hold ‘em Underwear**
+#### Mons Royale Hold 'em Underwear
 
-Long enough to prevent chafing, durable enough to take the miles, wooly enough to keep the stink at bay. 
+Long enough to prevent chafing, durable enough to take the miles, wooly enough to keep the stink at bay.
 
-**Darn Tough 1/4 Mid Cushion Sock**
+#### Darn Tough 1/4 Mid Cushion Sock
 
-**Outdoor Research ActiveIce Sun Gloves**
+#### Outdoor Research ActiveIce Sun Gloves
 
-**Montbell Trail Hat**
+#### Montbell Trail Hat
 
-**Ombraz Sunglasses**
+#### Ombraz Sunglasses
 
 Always with you with no flimsy arms to break. I'm a believer.
 
-**Dirty Girl Gaiters**
+#### Dirty Girl Gaiters
 
-**Salomon X Ultra 3**
+#### Salomon X Ultra 3
 
-**Sambob Alpha 60 Pullover Hoodie**
+#### Sambob Alpha 60 Pullover Hoodie
 
-**Montbell Tachyon Anorak**
+#### Montbell Tachyon Anorak
 
-**Montbell Ex Light Down Anorak**
+#### Montbell Ex Light Down Anorak
 
-**North Face Papsura Rain Shell**
+#### North Face Papsura Rain Shell
 
-**Ibex Woolies Pro Tech 3/4 Bottoms**
+#### Ibex Woolies Pro Tech 3/4 Bottoms
 
-## Gear
-**HMG Porter 55L Backpack**
+### Gear
 
-A tube. 
+#### HMG Porter 55L Backpack
 
-**Zimmermade Shoulder Bottle Pocket**
+A tube.
 
-**[Katabatic Palisade 30° Quilt](/products/katabatic-palisade/)**
+#### Zimmermade Shoulder Bottle Pocket
+
+#### Katabatic Palisade 30° Quilt
 
 The perfect blend between the comfort of a sleeping bag and the simplicity and versatility of a quilt with unmatched build quality.
 
-*90+ field days* 
+*90+ field days*
 
-**Nemo Tensor Elite Sleeping Pad**
+#### Nemo Tensor Elite Sleeping Pad
 
-The lightest (while still functional) 3-season sleeping pad out there. Easy to patch and not too noisy. 
+The lightest (while still functional) 3-season sleeping pad out there. Easy to patch and not too noisy.
 
 *90+ nights of sleep*
 
-**Flex Air Pillow (Small)**
+#### Flex Air Pillow (Small)
 
 If you were given an inflatable pillow with your hospital gown, it would look (and feel) like this... and it works.
 
-**Black Diamond Carbon Z Poles**
+#### Black Diamond Carbon Z Poles
 
 Simple and sturdy. Give your knees (and shelter) the support and stability they need.
 
-**Titanium Water Bottle (13 oz capacity)**
+#### Titanium Water Bottle (13 oz capacity)
 
 Ideal for drinking on the go (without taking up much space) and holding hot drinks (without serving up a side of boiled plastic).
 
-**Platypus 1L Collapsible Bottle**
+#### Platypus 1L Collapsible Bottle
 
 Simple way to add capacity when needed without adding bulk when you don't.
 
-**Bowl (Platypus 2L Collapsible Bottle cut in half)**
+#### Bowl (Platypus 2L Collapsible Bottle cut in half)
 
-When the lid fails on your Platypus (or you get a puncture in the top half), give it a second life as a collapsible bowl. Added bonus... you are now charged with cleaning the small corner folds of this bowl to the best of your ability. 
+When the lid fails on your Platypus (or you get a puncture in the top half), give it a second life as a collapsible bowl. Added bonus... you are now charged with cleaning the small corner folds of this bowl to the best of your ability.
 
-**Spork**
+#### Spork
 
-**Mini Bic Lighter**
+#### Mini Bic Lighter
 
-## Tech
+### Tech
 
-**Petzl Swift LT**
+#### Petzl Swift LT
 
-**Garmin Enduro 3**
+#### Garmin Enduro 3
 
-**iPhone 17**
+#### iPhone 17
 
-**Nitecore NB Air 5,000 mAh Battery**
+#### Nitecore NB Air 5,000 mAh Battery
 
-**Rolling Square USB-C Charging Cable (XS)**
+#### Rolling Square USB-C Charging Cable (XS)
 
-## Other
+### Other
 
-**Tooth Brush/Tooth Paste Tabs**
+#### Tooth Brush/Tooth Paste Tabs
 
-**Floss**
+#### Floss
 
-**Lip Balm**
+#### Lip Balm
 
-**Ear Plugs**
+#### Ear Plugs
 
-**Mini Bic Pen**
+#### Mini Bic Pen
 
-**Rite in the Rain Stapled Notebook**
+#### Rite in the Rain Stapled Notebook
