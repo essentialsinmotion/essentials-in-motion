@@ -14,25 +14,27 @@
 
       <h1>{{ title }}</h1>
 
-      {% if purpose %}
-        <p><strong>Purpose</strong><br>{{ purpose }}</p>
-      {% endif %}
+<div class="product-meta">
+  {% if purpose %}
+    <p><strong>Purpose</strong><br>{{ purpose }}</p>
+  {% endif %}
 
-      {% if status %}
-        <p><strong>Status</strong><br>{{ status }}</p>
-      {% endif %}
+  {% if status %}
+    <p><strong>Status</strong><br>{{ status }}</p>
+  {% endif %}
 
-      {% if use %}
-        <p><strong>Use</strong><br>{{ use }}</p>
-      {% endif %}
+  {% if use %}
+    <p><strong>Use</strong><br>{{ use }}</p>
+  {% endif %}
 
-      {% if weight %}
-        <p><strong>Weight</strong><br>{{ weight }}</p>
-      {% endif %}
+  {% if weight %}
+    <p><strong>Weight</strong><br>{{ weight }}</p>
+  {% endif %}
 
-      {% if cost %}
-        <p><strong>Cost</strong><br>{{ cost }}</p>
-      {% endif %}
+  {% if cost %}
+    <p><strong>Cost</strong><br>{{ cost }}</p>
+  {% endif %}
+</div>
 
       {{ content | safe }}
     </article>
