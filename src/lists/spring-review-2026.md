@@ -11,7 +11,7 @@ tags:
 
 ### General Use
 
-#### Merino Tee: Fjällräven Abisko
+#### Merino Tee: [Fjällräven Abisko](/products/fjallraven-abisko-wool-ss/)
 
 44 uses
 
