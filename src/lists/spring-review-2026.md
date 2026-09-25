@@ -11,15 +11,15 @@ tags:
 
 ### General Use
 
-#### Merino Tee: Fjällräven Abisko Tee
+#### Merino Tee: Fjällräven Abisko
 
 44 uses
 
-#### Hoodie: Patagonia Uprisal Hoodie
+#### Hoodie: Patagonia Uprisal
 
 67 uses
 
-#### Pants: Black Diamond Notion Pant
+#### Pants: Black Diamond Notion
 
 52 uses
 
@@ -43,11 +43,11 @@ tags:
 
 ### Fitness
 
-#### Artilect Sprint Tee
+#### Artilect Sprint
 
 65 uses
 
-#### Patagonia Strider Pro Short
+#### Patagonia Strider Pro
 
 63 uses
 
