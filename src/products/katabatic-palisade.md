@@ -12,14 +12,14 @@ use: 150+ nights
 cost: $425
 ---
 
-## Why this one
+### Why this one
 
 My default three-season sleep insulation. The warmth-to-weight ratio is excellent, but predictable performance and familiarity are probably the bigger reasons it continues to earn its place.
 
-## In use
+### In use
 
 This is where the longer experience-based notes can go.
 
-## What I'd change
+### What I'd change
 
 Only include this section when there is actually something useful to say.
