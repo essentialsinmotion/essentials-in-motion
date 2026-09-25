@@ -13,35 +13,44 @@ tags:
 
 ### General Use
 
-**Merino Tee: Fjällräven Abisko Tee**  
+#### Merino Tee: Fjällräven Abisko Tee
+
 44 uses
 
-**Hoodie: Patagonia Uprisal Hoodie**  
+#### Hoodie: Patagonia Uprisal Hoodie
+
 67 uses
 
-**Pants: Black Diamond Notion Pant**  
+#### Pants: Black Diamond Notion Pant
+
 52 uses
 
-**Underwear: Mons Royale Hold 'em Shorty / Hold 'em**  
+#### Underwear: Mons Royale Hold 'em Shorty / Hold 'em
+
 23 / 35 uses
 
-**Sunglasses: Smith Embark**  
+#### Sunglasses: Smith Embark
+
 71 uses
 
-**Watch: Garmin Enduro 3**  
+#### Watch: Garmin Enduro 3
+
 92 uses
 
-**Footwear: Blundstone Classics**  
+#### Footwear: Blundstone Classics
+
 39 uses
 
 **Daily Use Cost:** $9.32
 
 ### Fitness
 
-**Artilect Sprint Tee**  
+#### Artilect Sprint Tee
+
 65 uses
 
-**Patagonia Strider Pro Short**  
+#### Patagonia Strider Pro Short
+
 63 uses
 
 **Daily Use Cost:** $0.76
