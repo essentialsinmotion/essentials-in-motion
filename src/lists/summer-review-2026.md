@@ -11,7 +11,7 @@ tags:
 
 ### General Use
 
-#### Merino Tee: Duckworth Vapor/Fjällräven Abisko
+#### Merino Tee: [Duckworth Vapor](/products/duckworth-vapor-tee/)/[Fjallraven Abisko](/products/fjallraven-abisko-wool-ss/)
 
 39 / 36 uses
 
@@ -19,7 +19,7 @@ tags:
 
 74 uses
 
-#### Underwear: Mons Royale Hold 'em Shorty
+#### Underwear: [Mons Royale Hold 'em Shorty](/products/mons-royale-hold-em-shorty/)
 
 73 uses
 
@@ -31,7 +31,7 @@ tags:
 
 92 uses
 
-#### Footwear: Luna Leadville
+#### Footwear: [Luna Leadville](/products/luna-leadville-pacer/)
 
 77 uses
 
@@ -45,7 +45,7 @@ A mainstay in my rotation for the last 10+ years. Minimal, lightweight, and absu
 
 77 uses
 
-#### Patagonia Strider Pro
+#### [Patagonia Strider Pro](/products/patagonia-strider-pro-short/)
 
 76 uses
 
