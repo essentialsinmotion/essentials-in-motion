@@ -7,8 +7,6 @@ tags:
   - lists
 ---
 
-## Field Kit
-
 *Edited September 2, 2026*
 
 As of Summer 2026, these items are the foundation of my field kit as a NOLS instructor based in the Rocky Mountain region. Suitable for 3-season courses in the canyons of Utah, mountains of Wyoming, etc. Adjustments to layering based on time of year or environment are to be expected.
