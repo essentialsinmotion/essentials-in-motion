@@ -15,7 +15,7 @@ tags:
 
 44 uses
 
-#### Hoodie: Patagonia Uprisal
+#### Hoodie: [Patagonia Uprisal](/products/patagonia-uprisal-hoodie/)
 
 67 uses
 
@@ -23,7 +23,7 @@ tags:
 
 52 uses
 
-#### Underwear: Mons Royale Hold 'em Shorty/Hold 'em
+#### Underwear: [Mons Royale Hold 'em Shorty](/products/mons-royale-hold-em-shorty/)/Hold 'em
 
 23 / 35 uses
 
@@ -47,7 +47,7 @@ tags:
 
 65 uses
 
-#### Patagonia Strider Pro
+#### [Patagonia Strider Pro](/products/patagonia-strider-pro-short/)
 
 63 uses
 
