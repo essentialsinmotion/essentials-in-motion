@@ -7,8 +7,6 @@ tags:
   - lists
 ---
 
-## Spring Review
-
 *March 1–May 31, 2026. I spent 10 days on a backcountry expedition with NOLS this spring, leaving 82 days of front-country use.*
 
 ### General Use
