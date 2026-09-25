@@ -11,7 +11,7 @@ tags:
 
 ### General Use
 
-#### Merino Tee: Duckworth Vapor / Fjällräven Abisko Tee
+#### Merino Tee: Duckworth Vapor/Fjällräven Abisko Tee
 
 39 / 36 uses
 
