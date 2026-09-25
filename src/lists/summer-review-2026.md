@@ -1,5 +1,5 @@
 ---
-title: Summer Review 2026
+title: Summer Review '26
 date: 2026-09-25
 updated: 2026-09-25
 layout: layouts/list.njk
