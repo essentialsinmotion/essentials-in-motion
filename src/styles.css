@@ -104,6 +104,49 @@
       font-style: italic;
     }
 
+/* LISTS */
+
+.list h2 {
+  margin-top: 3rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  text-transform: none;
+}
+
+.list h2 + p {
+  margin-bottom: 2rem;
+}
+
+.list h2 + p em {
+  font-size: 0.85rem;
+  line-height: 1.45;
+  color: var(--muted);
+}
+
+.list h3 {
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
+  font-size: 1.15rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+  text-transform: none;
+}
+
+.list h4 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.25rem;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.35;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+
     footer {
       margin-top: clamp(6rem, 14vw, 10rem);
       padding-top: 1.25rem;
