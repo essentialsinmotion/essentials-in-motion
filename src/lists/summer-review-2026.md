@@ -31,7 +31,7 @@ tags:
 
 92 uses
 
-#### Footwear: [Luna Leadville](/products/luna-leadville-pacer/)
+#### Footwear: [Luna Leadville Pacer](/products/luna-leadville-pacer/)
 
 77 uses
 
